@@ -1,3 +1,4 @@
 # README
-Google Tranlate API
-Proxy Needed
+* Google Tranlate API
+> [!NOTE] 
+> Proxy Needed
